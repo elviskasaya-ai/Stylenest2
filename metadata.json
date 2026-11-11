@@ -1,0 +1,6 @@
+{
+  "name": "Style Nest - Student Activities & Academics Portal",
+  "description": "Mobile-first school platform tracking student activities, academic performance, real-time attendance alerts, and parent-teacher communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
